@@ -9,6 +9,4 @@
     )
 
 #include "zmk-helpers/key-labels/eyelash42.h"
-#include "base.keymap"
-
-/{ chosen { zmk,physical-layout = &foostan_corne_6col_layout; }; };
+#include "base.keymap
