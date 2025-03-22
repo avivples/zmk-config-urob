@@ -9,4 +9,4 @@
     )
 
 #include "zmk-helpers/key-labels/eyelash42.h"
-#include "base.keymap
+#include "base.keymap"
